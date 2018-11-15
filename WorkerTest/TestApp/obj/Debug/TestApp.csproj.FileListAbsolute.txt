@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\WorkerTest\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Administrator\source\repos\WorkerTest\TestApp\bin\Debug\TestApp.exe
+C:\Users\Administrator\source\repos\WorkerTest\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Administrator\source\repos\WorkerTest\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WorkerTest\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WorkerTest\TestApp\obj\Debug\TestApp.exe
+C:\Users\Administrator\source\repos\WorkerTest\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Administrator\Desktop\WorkerTest\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Administrator\Desktop\WorkerTest\TestApp\bin\Debug\TestApp.exe
+C:\Users\Administrator\Desktop\WorkerTest\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Administrator\Desktop\WorkerTest\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WorkerTest\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WorkerTest\TestApp\obj\Debug\TestApp.exe
+C:\Users\Administrator\Desktop\WorkerTest\TestApp\obj\Debug\TestApp.pdb
